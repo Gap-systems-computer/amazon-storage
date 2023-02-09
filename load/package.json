@@ -1,7 +1,7 @@
 {
-  "name": "sample-project",
+  "name": "prod-project",
   "version": "1.0.0",
-  "description": "A sample Node.js project",
+  "description": "prod Node.js project",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
